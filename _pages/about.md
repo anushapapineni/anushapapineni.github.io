@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/Data-Science.png"
 ---
 
 My journey and interest into dealing with large data sets emerged while working as an Application Development Associate at Accenture and drove me towards Master's in Data Science. All the time from then I enjoyed working for the projects that involved collecting the data, manipulating and deriving insights from the data and I'm looking forward for full time opportunities as Data scientist/Analyst/Engineer.
